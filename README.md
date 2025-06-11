@@ -3,9 +3,7 @@
 ### 💻 Full Stack Developer | ASP.NET Core | Angular | PostgreSQL | Open Source Enthusiast
 
 I'm a passionate full-stack developer who enjoys building scalable, high-performance web applications with modern technologies. With a strong background in .NET Core and Angular, I aim to deliver clean, maintainable, and efficient code that solves real-world problems.
-<p align="center">
-  <img src="https://ghchart.rshah.org/gaurang891" alt="GitHub Contribution Graph" />
-</p>
+
 ---
 
 ## 🛠️ Tech Stack
