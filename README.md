@@ -54,6 +54,7 @@ I'm a passionate full-stack developer who enjoys building scalable, high-perform
 ---
 
 ## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang891&layout=compact&theme=tokyonight)
 
 <p align="center">
   
